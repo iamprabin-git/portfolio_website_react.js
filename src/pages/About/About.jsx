@@ -1,6 +1,6 @@
 
 import { useEffect, useState } from 'react';
-import Service from './service'
+import Service from './Service'
 import Testimonial from './Testimonial'
 const servicesData = [
   {
